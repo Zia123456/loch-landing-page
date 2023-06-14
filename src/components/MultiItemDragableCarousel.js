@@ -51,7 +51,7 @@ const MultiItemDragableCarousel = () => {
         </div>
         <div className="yash-supporting-text-container">
           <p>
-            “I use Loch everyday now. I don&apos;t think I could analyze 
+            “I use Loch everyday now. I don&apos;t think I could analyze
             crypto whale trends markets without it. I&apos;m addicted!”
           </p>
         </div>
@@ -59,12 +59,12 @@ const MultiItemDragableCarousel = () => {
       <div className="testimonial-card-3">
         <div className="shiv-text-container">
           <span className="shiv">Shiv S</span>
-          <span className="co-founder">Co-Founder Magik Labs</span> 
+          <span className="co-founder">Co-Founder Magik Labs</span>
         </div>
         <div className="shiv-supporting-text-container">
           <p>
             “Managing my own portfolio is helpful and well designed. What’s
-            really interesting is watching the whales though. No one else 
+            really interesting is watching the whales though. No one else
             has made whale tracking so simple.”
           </p>
         </div>
