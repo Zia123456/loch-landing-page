@@ -1,0 +1,243 @@
+@import '~typeface-inter';
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main-signUp-container {
+  width: 1440px;
+  height: 1024px;
+  display: flex;
+  background-color: black;
+}
+
+.notification-container {
+  width: 800px;
+  height: 1024px;
+  display: flex;
+  flex-direction: column;
+  background-image: url(./images/bluela\ 2.png);
+  background-repeat: no-repeat;
+}
+
+.signUp-container {
+  width: 640px;
+  height: 1024px;
+  background-color: #fff;
+  z-index: 1000;
+  box-shadow: 0 14px 64px 40px rgba(20, 27, 44, 0.12), 0 8px 22px 60px rgba(15, 21, 33, 0.12);
+}
+
+.upper-row {
+  width: 100%;
+  height: 407px;
+  display: flex;
+  flex-direction: row;
+}
+
+.upper-row-card-1 {
+  width: 322px;
+  height: 251px;
+  margin-left: 60px;
+  margin-top: 86px;
+}
+
+.bell-container {
+  width: 32px;
+  height: 32px;
+}
+
+.upper-label-container {
+  width: 313px;
+  height: 111px;
+  display: flex;
+  align-items: center;
+  margin-top: 16px;
+  font-weight: 500;
+  font-size: 31px;
+  line-height: 37px;
+  font-family: 'Inter', sans-serif;
+  color: #f2f2f2;
+}
+
+.lower-label-container {
+  width: 322px;
+  height: 76px;
+  margin-top: 16px;
+  opacity: 70%;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  font-family: 'Inter', sans-serif;
+  color: #f2f2f2;
+}
+
+.midle-row {
+  width: 678px;
+  height: 306px;
+  margin-top: 61px;
+  margin-left: 60px;
+  display: flex;
+  object-fit: contain;
+}
+
+.cohort-img-container {
+  width: 335px;
+  height: 306px;
+}
+
+.cohort {
+  margin-top: -46px;
+  margin-left: -60px;
+}
+
+.text-icon-container {
+  display: flex;
+  flex-direction: column;
+  align-items: self-end;
+}
+
+.eye-container {
+  width: 30px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.midle-row-label-1 {
+  width: 305px;
+  height: 74px;
+  margin-top: 22px;
+  margin-left: 38px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  font-size: 31px;
+  line-height: 37px;
+  text-align: right;
+  color: #f2f2f2;
+  display: flex;
+  align-items: center;
+}
+
+.midle-row-label-2 {
+  width: 305px;
+  height: 57px;
+  margin-top: 16px;
+  margin-left: 38px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: right;
+  font-family: 'Inter', sans-serif;
+  display: flex;
+  align-items: center;
+  color: #f2f2f2;
+  opacity: 0.7;
+}
+
+.bottom-row {
+  margin-top: 22px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+}
+
+.testimoial-container {
+  width: 400px;
+  height: 30px;
+  margin-left: 338px;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 30px;
+  text-align: right;
+  font-family: 'Inter', sans-serif;
+  color: #f2f2f2;
+}
+
+.horizantle-line-container {
+  width: 800px;
+  display: flex;
+  justify-content: center;
+}
+
+.horizantle-line {
+  margin-top: 22px;
+  width: 678px;
+}
+
+.logo-carousel-container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.logo-container {
+  height: 60px;
+  width: 60px;
+  margin-top: 117px;
+  margin-left: 60px;
+}
+
+.sign-up-text-container {
+  width: 326px;
+  height: 94px;
+  margin-top: 369px;
+  margin-left: 150px;
+  margin-right: 164px;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 47px;
+  color: #b0b1b3;
+  font-family: 'Inter', sans-serif;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+}
+
+#email {
+  width: 316px;
+  height: 59px;
+  margin-top: 32px;
+  margin-left: 150px;
+  margin-right: 150px;
+  padding-left: 24px;
+  outline: none;
+  border: 1px solid rgba(229, 229, 230, 1);
+  border-radius: 8px;
+}
+
+.btn {
+  width: 340px;
+  height: 59px;
+  margin-top: 32px;
+  margin-left: 150px;
+  margin-right: 150px;
+  border: 1px solid #19191a;
+  border-radius: 8px;
+  background-color: #19191a;
+  color: #fff;
+}
+
+.message {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (min-width: 1441px) {
+  .main-signUp-container {
+    width: 100%;
+    height: 1024px;
+    display: flex;
+    background-color: black;
+  }
+
+  .signUp-container {
+    width: 100%;
+  }
+}
