@@ -15,11 +15,11 @@
   margin-top: 48px;
   margin-left: 14px;
   border-radius: 8px;
-  background-color: #F2F2F2;
+  background-color: #f2f2f2;
 }
 
 .carousel-card-1 {
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0.2) 27.5%, rgba(5, 80, 255, 0.162) 157.71%), #FFF;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.2) 27.5%, rgba(5, 80, 255, 0.162) 157.71%), #fff;
   box-shadow: 0px 2.8px 7px rgba(0, 0, 0, 0.04), 0px 0.7px 0.7px rgba(0, 0, 0, 0.04);
 }
 
@@ -56,11 +56,11 @@
   font-size: 14px;
   line-height: 16px;
   font-family: 'Inter', sans-serif;
-  color: #19191A;
+  color: #19191a;
 }
 
 .save {
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0.2),#FFF);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.2),#fff);
   border: none;
 }
 
@@ -75,7 +75,7 @@
   width: 154px;
   height: 35px;
   padding-left: 8px;
-  border: 0.7px solid #D4D4D4;;
+  border: 0.7px solid #d4d4d4;;
   border-radius: 6px;
   outline: none;
   
@@ -100,7 +100,7 @@
   font-weight: 500;
   font-size: 11px;
   line-height: 13px;
-  color: #19191A;
+  color: #19191a;
   font-family: 'Inter', sans-serif;
 }
 
@@ -152,7 +152,7 @@
   font-weight: 500;
   font-size: 11px;
   line-height: 13px;
-  color: #19191A;
+  color: #19191a;
   font-family: 'Inter', sans-serif;
 }
 
@@ -187,6 +187,6 @@
   font-weight: 500;
   font-size: 11px;
   line-height: 13px;
-  color: #19191A;
+  color: #19191a;
   font-family: 'Inter', sans-serif;
 }
