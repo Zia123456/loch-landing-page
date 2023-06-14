@@ -19,7 +19,7 @@
 }
 
 .carousel-card-1 {
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0.2) 27.5%, rgba(5, 80, 255, 0.162) 157.71%), #FFFFFF;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.2) 27.5%, rgba(5, 80, 255, 0.162) 157.71%), #FFF;
   box-shadow: 0px 2.8px 7px rgba(0, 0, 0, 0.04), 0px 0.7px 0.7px rgba(0, 0, 0, 0.04);
 }
 
@@ -60,7 +60,7 @@
 }
 
 .save {
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0.2),#FFFFFF);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.2),#FFF);
   border: none;
 }
 
